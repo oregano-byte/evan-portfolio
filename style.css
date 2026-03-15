@@ -36,17 +36,17 @@ body {
 /* ── FONTS ── */
 @font-face {
   font-family: font-1;
-  src: url("NeueMachina-Light.woff2");
+  src: url("fonts/NeueMachina-Light.woff2");
 }
 
 @font-face {
   font-family: font-2;
-  src: url("IBMPlexMono-ExtraLight.ttf");
+  src: url("fonts/IBMPlexMono-ExtraLight.ttf");
 }
 
 @font-face {
   font-family: font-3;
-  src: url("Barlow-Bold.ttf");
+  src: url("fonts/Barlow-Bold.ttf");
 }
 
 
